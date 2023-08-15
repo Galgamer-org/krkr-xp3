@@ -7,7 +7,7 @@ Based on Python 3 rewrite, Awakening
 
 Enhanced by Kiriha!
 
-[中文](../README_zh.md)
+[中文](README_zh.md)
 
 ## Introduction
 
