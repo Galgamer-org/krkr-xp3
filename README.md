@@ -7,6 +7,8 @@ Based on Python 3 rewrite, Awakening
 
 Enhanced by Kiriha!
 
+[中文](../README_zh.md)
+
 ## Introduction
 
 Extracts an .XP3 archive to a directory of files, and
